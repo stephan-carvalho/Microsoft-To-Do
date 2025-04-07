@@ -1,0 +1,11 @@
+{
+	"id": "microsoft-todo-sync",
+	"name": "Microsoft To-Do Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sincronização entre obsidian e microsoft to-do.",
+	"author": "The Mage King",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
